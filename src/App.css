@@ -1,0 +1,37 @@
+.App {
+  margin: 50px 0px;
+}
+
+
+.soldproductdetails {
+  margin: 50px 0px;
+  background-color: #9c27b08f !important;
+}
+
+.mainImagedThumbnail {
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  height: 450px;
+  overflow: hidden;
+  border-radius: 30px;
+  width: 100%;
+}
+
+.thumbnailImage {
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 15px;
+  height: 75px;
+  width: 100%;
+}
+
+.hometext{
+color: black;
+}

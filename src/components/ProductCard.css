@@ -1,0 +1,56 @@
+.productCard {
+    background-color: #9c27b0 !important;
+    padding: 10px;
+    cursor: pointer;
+    height: 100%;
+}
+
+.soldproductCard {
+    background-color: #9c27b08f !important;
+    padding: 10px;
+    height: 100%;
+}
+.available {
+    color: #53bb3c;
+    font-weight: 600;
+}
+
+.outofstoke{
+    color: red;
+}
+
+h5 {
+    color: #fff;
+    font-weight: 500;
+}
+
+h6 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0px;
+}
+
+p {
+    color: #fff;
+}
+
+
+.card {
+    margin: 0px;
+    width: 100%;
+    height: 150px !important;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.card img {
+    width: 100%;
+}
